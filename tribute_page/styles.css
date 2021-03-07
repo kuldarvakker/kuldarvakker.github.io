@@ -1,0 +1,30 @@
+body {
+    background-color: #161212;
+    text-align: center;
+    color: white;
+}
+header {
+    font-family: monospace;
+}
+
+#tribute-info {
+    background-color: #37373c;
+    margin: 0 30vw 0 30vw;
+}
+
+#footer {
+    background-color: #392727;
+    margin: 0 30vw 0 30vw;
+}
+
+#tribute-link {
+    color: #e22b65;
+}
+
+#image {
+    border-radius: 20%;
+    max-width: 50vw;
+    height: auto;
+    display: block;
+    margin: auto;
+}
